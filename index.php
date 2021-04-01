@@ -16,3 +16,4 @@ while($fag = true) {
     $Config->setCmdInfo($inputCMD);
     $shell->CommandHandler();
 }
+

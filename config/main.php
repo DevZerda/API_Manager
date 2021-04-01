@@ -8,7 +8,7 @@ class Config
         "arg" => array(),
         "fullcmd" => ""
     );
-    public static colors = array(
+    public static $colors = array(
         "Red" => "\x1b[31m",
         "Yellow" => "\x1b[33m",
         "Blue" => "\x1b[34m",
